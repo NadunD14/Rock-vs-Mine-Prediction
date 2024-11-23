@@ -11,7 +11,8 @@ Evaluation: The model's performance is evaluated using standard classification m
 This repository contains the implementation, including data preprocessing, training, testing, and evaluation code, along with explanations of key steps.
 
 Getting Started:
-Clone the repository.
-Run the provided scripts to preprocess the data and train the model.
-Test the trained model with the provided test dataset.
+1)Clone the repository.
+2)Run the provided scripts to preprocess the data and train the model.
+3)Test the trained model with the provided test dataset.
+
 Feel free to explore, contribute, and enhance the project!
